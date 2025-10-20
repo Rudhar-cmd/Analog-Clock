@@ -1,41 +1,35 @@
-Analog Clock (HTML + CSS + JavaScript)
+## Analog Clock (HTML + CSS + JavaScript)
 
 This is a simple web-based analog clock built using HTML, CSS, and JavaScript. It displays the current system time using rotating hour, minute, and second hands, updated every second.
 
-Technologies Used
+---
 
-HTML – Page structure
+## Technologies Used
 
-CSS – Styling and layout
+- HTML – Page structure  
+- CSS – Styling and layout  
+- JavaScript – Time calculation and hand rotation  
 
-JavaScript – Time calculation and hand rotation
+---
 
-Project Summary
+## Project Summary
 
 This project creates an analog clock that runs in the browser. It uses JavaScript to get the current time and applies dynamic rotation to the clock hands using CSS transforms. The layout is fully responsive and doesn't rely on any external libraries or frameworks.
 
-Features
+---
 
-Circular analog clock (index.html)
+## Features
 
-Hour, minute, and second hands
+- Circular analog clock (`index.html`)  
+- Hour, minute, and second hands  
+- Real-time updates every second  
+- Smooth transitions using CSS  
+- No dependencies – everything in one HTML file  
 
-Real-time updates every second
+---
 
-Smooth transitions using CSS
+## How to Use
 
-No dependencies – everything in one HTML file
-
-How to Use
-
-Clone the repository:
-
-git clone https://github.com/Rudhar-cmd/Analog-Clock.git
-
-
-Navigate into the project folder:
-
-cd analog-clock
-
-
-Open the index.html file in your browser.
+ Clone the repository:  
+   ```bash
+   git clone https://github.com/Rudhar-cmd/Analog-Clock.git
