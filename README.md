@@ -28,8 +28,5 @@ This project creates an analog clock that runs in the browser. It uses JavaScrip
 
 ---
 
-## How to Use
+![Analog](https://github.com/user-attachments/assets/38f82aaf-7542-4a0f-bee5-0b241c400244)
 
- Clone the repository:  
-   ```bash
-   git clone https://github.com/Rudhar-cmd/Analog-Clock.git
